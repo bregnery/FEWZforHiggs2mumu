@@ -1,8 +1,8 @@
 #################################
 ### Choose whether to use LHAPDF
 ### LHAPDF = on,off
-LHAPDF = on
-LHADIR = /ufrc/avery/dimi/hg2/lhapdf/LHAPDF-6.1.6/dimi/lib
+LHAPDF = off
+LHADIR = /mylhadir/lib
 #################################
 
 #################################
@@ -78,7 +78,7 @@ condor_fewzw: cuba $(CONDOR_EXEC_W)
 $(BUILDDIR_Z)/%.o : $(SRCDIR_Z)/%.F
 	@mkdir -p $(BUILDDIR_Z)
 	$(FCC) $(FFLAGS)  -c $< -o $@
-
+	
 $(BUILDDIR_W)/%.o : $(SRCDIR_W)/%.F
 	@mkdir -p $(BUILDDIR_W)
 	$(FCC) $(FFLAGS)  -c $< -o $@
