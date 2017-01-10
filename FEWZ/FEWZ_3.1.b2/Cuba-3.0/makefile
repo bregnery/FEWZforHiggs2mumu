@@ -1,8 +1,8 @@
 CC = gcc
 CFLAGS = -O3 -fomit-frame-pointer -ffast-math -Wall -DHAVE_CONFIG_H -I$(common) -I. -I$(srcdir)
 MCFLAGS = 
-F77 = gfortran
-FFLAGS = -g -O2
+F77 = 
+FFLAGS = 
 LIBS = -lm
 INSTALL = /usr/bin/install -c
 INSTALL_DATA = ${INSTALL} -m 644
@@ -19,9 +19,9 @@ includedir = ${prefix}/include
 datarootdir = ${prefix}/share
 datadir = ${datarootdir}
 
-MATH_DEFAULT = math
+MATH_DEFAULT = 
 TOOLS_DEFAULT = 
-DEMO_FORTRAN_DEFAULT = demo-fortran$(EXE)
+DEMO_FORTRAN_DEFAULT = $(EXE)
 
 MCC = CC="$(tools)/fcc" CXX="$(tools)/fcc" REALCC="$(CC)" PATH="$(PATH):$(tools)" mcc
 

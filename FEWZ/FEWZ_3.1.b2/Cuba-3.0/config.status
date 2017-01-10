@@ -445,7 +445,7 @@ Copyright (C) 2010 Free Software Foundation, Inc.
 This config.status script is free software; the Free Software Foundation
 gives unlimited permission to copy, distribute and modify it."
 
-ac_pwd='/Users/yli/Study/HEPWork/FEWZproducts/FEWZ_3.1.b2/Cuba-3.0'
+ac_pwd='/ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/Cuba-3.0'
 srcdir='.'
 INSTALL='/usr/bin/install -c'
 test -n "$AWK" || AWK=awk
@@ -615,17 +615,17 @@ echo 'BEGIN {' >"$ac_tmp/subs1.awk" &&
 cat >>"$ac_tmp/subs1.awk" <<\_ACAWK &&
 S["LTLIBOBJS"]=""
 S["LIBOBJS"]=""
-S["DEMO_FORTRAN_DEFAULT"]="demo-fortran"
+S["DEMO_FORTRAN_DEFAULT"]=""
 S["TOOLS_DEFAULT"]=""
 S["HAVE_QMAKE"]=""
-S["MATH_DEFAULT"]="math"
+S["MATH_DEFAULT"]=""
 S["INSTALL_DATA"]="${INSTALL} -m 644"
 S["INSTALL_SCRIPT"]="${INSTALL}"
 S["INSTALL_PROGRAM"]="${INSTALL}"
 S["RANLIB"]="ranlib"
-S["ac_ct_F77"]="gfortran"
-S["FFLAGS"]="-g -O2"
-S["F77"]="gfortran"
+S["ac_ct_F77"]=""
+S["FFLAGS"]=""
+S["F77"]=""
 S["OBJEXT"]="o"
 S["EXEEXT"]=""
 S["ac_ct_CC"]="gcc"
@@ -639,8 +639,8 @@ S["host_alias"]=""
 S["build_alias"]=""
 S["LIBS"]="-lm"
 S["ECHO_T"]=""
-S["ECHO_N"]=""
-S["ECHO_C"]="\\c"
+S["ECHO_N"]="-n"
+S["ECHO_C"]=""
 S["DEFS"]="-DHAVE_CONFIG_H"
 S["mandir"]="${datarootdir}/man"
 S["localedir"]="${datarootdir}/locale"
