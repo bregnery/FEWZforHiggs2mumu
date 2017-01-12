@@ -119,3 +119,10 @@ Thu Jan 12 10:39:32 EST 2017
 Job finished in 530 seconds
 Run the following to post-process the output files: finish.sh mu13tev-higgs-110-310-1jet <order>.mu13tev-higgs-110-310-1jet-results.dat
 Thu Jan 12 10:48:22 EST 2017
+Job finished in 4390 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-160-full <order>.mu13tev-higgs-110-160-full-results.dat
+Thu Jan 12 11:52:42 EST 2017
+slurmstepd: *** JOB 4529190 ON c33b-s3 CANCELLED AT 2017-01-12T13:39:41 DUE TO TIME LIMIT ***
+slurmstepd: *** JOB 4529187 ON c33b-s3 CANCELLED AT 2017-01-12T13:39:41 DUE TO TIME LIMIT ***
+slurmstepd: *** JOB 4529183 ON c33b-s3 CANCELLED AT 2017-01-12T13:39:41 DUE TO TIME LIMIT ***
+slurmstepd: *** JOB 4529186 ON c33b-s3 CANCELLED AT 2017-01-12T13:39:41 DUE TO TIME LIMIT ***
