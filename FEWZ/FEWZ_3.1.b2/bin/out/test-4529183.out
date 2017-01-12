@@ -1,0 +1,121 @@
+/ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+/ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+/ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Thu Jan 12 10:39:30 EST 2017
+Thu Jan 12 10:39:30 EST 2017
+Thu Jan 12 10:39:30 EST 2017
+Thu Jan 12 10:39:30 EST 2017
+Thu Jan 12 10:39:30 EST 2017
+Thu Jan 12 10:39:30 EST 2017
+c33b-s3.ufhpc
+c33b-s3.ufhpc
+c33b-s3.ufhpc
+c33b-s3.ufhpc
+c33b-s3.ufhpc
+c33b-s3.ufhpc
+Working in /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Will run DY NLO job with parameter =  2
+Working in /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Will run DY NLO job with parameter =  5
+Working in /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Working in /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Working in /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Will run DY NLO job with parameter =  6
+Will run DY NLO job with parameter =  3
+Will run DY NLO job with parameter =  0
+Working in /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Working in /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Will run DY NLO job with parameter =  4
+Will run DY NLO job with parameter =  7
+Working in /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Will run DY NLO job with parameter =  1
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "scripts/get_sects.py", line 9, in <module>
+      File "scripts/get_sects.py", line 9, in <module>
+print getsects(sys.argv[1], sys.argv[2].upper())
+      File "/ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin/scripts/defs.py", line 187, in getsects
+print getsects(sys.argv[1], sys.argv[2].upper())
+  File "/ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin/scripts/defs.py", line 170, in getsects
+    fin = open(str(namestr), 'r')
+    raise IOError
+IOErrorIOError
+: [Errno 2] No such file or directory: 'mu13tev-higgs-110-310-full-input.txt'
+Traceback (most recent call last):
+  File "scripts/get_scalevar.py", line 9, in <module>
+    scalevars = getscalevar(sys.argv[1])
+  File "/ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin/scripts/defs.py", line 254, in getscalevar
+    return [[muf,mur],[muf,mur],False]
+UnboundLocalError: local variable 'muf' referenced before assignment
+Traceback (most recent call last):
+  File "scripts/get_scalevar.py", line 9, in <module>
+    ./local_run.sh: line 66: [: illegal: integer expression expected
+scalevars = getscalevar(sys.argv[1])
+./local_run.sh: line 67: [: too many arguments
+  File "/ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin/scripts/defs.py", line 219, in getscalevar
+./local_run.sh: line 71: [: illegal: integer expression expected
+./local_run.sh: line 71: [: too many arguments
+./local_run.sh: line 81: [: illegal: integer expression expected
+    fin = open(infile, 'r')
+./local_run.sh: line 82: [: too many arguments
+./local_run.sh: line 83: [: too many arguments
+IOError: [Errno 2] No such file or directory: 'mu13tev-higgs-110-310-full-input.txt'
+./local_run.sh: line 66: [: illegal: integer expression expected
+./local_run.sh: line 67: [: too many arguments
+./local_run.sh: line 71: [: illegal: integer expression expected
+./local_run.sh: line 71: [: too many arguments
+./local_run.sh: line 81: [: illegal: integer expression expected
+./local_run.sh: line 82: [: too many arguments
+./local_run.sh: line 83: [: too many arguments
+Using 1 parallel threads
+illegal input of getsects()
+Error reading input file.
+Traceback (most recent call last):
+Starting sector 1 ...
+Using 1 parallel threads
+  File "scripts/create_parallel.py", line 68, in <module>
+    Starting sector 1 ...
+illegal input of getsects()
+Error reading input file.
+sectors = getsects(sys.argv[2], sys.argv[1].upper())
+Traceback (most recent call last):
+  File "/ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin/scripts/defs.py", line 187, in getsects
+      File "scripts/create_parallel.py", line 68, in <module>
+Using 1 parallel threads
+raise IOError
+IOError
+Using 1 parallel threads
+Using 1 parallel threads
+Using 1 parallel threads
+    Starting sector 1 ...
+sectors = getsects(sys.argv[2], sys.argv[1].upper())
+  File "/ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin/scripts/defs.py", line 170, in getsects
+    fin = open(str(namestr), 'r')
+IOError: [Errno 2] No such file or directory: 'mu13tev-higgs-110-310-full-input.txt'
+Starting sector 1 ...
+Starting sector 1 ...
+Starting sector 1 ...
+Traceback (most recent call last):
+  File "scripts/get_bin_files.py", line 22, in <module>
+    newfile = open(newfilen, 'w')
+IOError: [Errno 20] Not a directory: 'mu13tev-higgs-110-310-full/mu13tev-higgs-110-310-full-histograms.txt'
+cp: cannot stat `mu13tev-higgs-110-310-full-input.txt': No such file or directory
+./local_run.sh: line 125: cd: mu13tev-higgs-110-310-full: Not a directory
+Using 1 parallel threads
+./local_run.sh: line 152: [: 1: unary operator expected
+Job finished in 0 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-310-full <order>.mu13tev-higgs-110-310-full-results.dat
+Thu Jan 12 10:39:32 EST 2017
+Traceback (most recent call last):
+  File "scripts/get_bin_files.py", line 22, in <module>
+    newfile = open(newfilen, 'w')
+IOError: [Errno 20] Not a directory: 'mu13tev-higgs-110-160-1jet/mu13tev-higgs-110-160-1jet-histograms.txt'
+./local_run.sh: line 125: cd: mu13tev-higgs-110-160-1jet: Not a directory
+Using 1 parallel threads
+./local_run.sh: line 152: [: 1: unary operator expected
+Job finished in 0 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-160-1jet <order>.mu13tev-higgs-110-160-1jet-results.dat
+Thu Jan 12 10:39:32 EST 2017
+Job finished in 530 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-310-1jet <order>.mu13tev-higgs-110-310-1jet-results.dat
+Thu Jan 12 10:48:22 EST 2017

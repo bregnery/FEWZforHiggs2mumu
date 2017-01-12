@@ -12,6 +12,14 @@ Load the necessary modules and enter development mode of the University of Flori
     module load gcc
     srundev --time=04:00:00
 
+Submitting Jobs on the HiPerGator 2.0
+=====================================
+
+This is an example of how to submit a job. The submit script used in this example is FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin/dy_nlo_submit.sh
+
+    sbatch dy_nlo_submit.sh
+    squeue -u <username>
+
 Installation Instructions
 =========================
 
