@@ -119,3 +119,21 @@ Using 1 parallel threads
 Job finished in 0 seconds
 Run the following to post-process the output files: finish.sh mu13tev-higgs-110-160-1jet <order>.mu13tev-higgs-110-160-1jet-results.dat
 Thu Jan 12 13:54:24 EST 2017
+Job finished in 537 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-310-1jet <order>.mu13tev-higgs-110-310-1jet-results.dat
+Thu Jan 12 14:03:21 EST 2017
+Job finished in 4149 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-160-full <order>.mu13tev-higgs-110-160-full-results.dat
+Thu Jan 12 15:03:33 EST 2017
+Job finished in 10991 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-160-cc <order>.mu13tev-higgs-110-160-cc-results.dat
+Thu Jan 12 16:57:35 EST 2017
+Job finished in 11821 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-160-ncnc <order>.mu13tev-higgs-110-160-ncnc-results.dat
+Thu Jan 12 17:11:25 EST 2017
+Job finished in 12052 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-310-cc <order>.mu13tev-higgs-110-310-cc-results.dat
+Thu Jan 12 17:15:16 EST 2017
+Job finished in 14810 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-310-ncnc <order>.mu13tev-higgs-110-310-ncnc-results.dat
+Thu Jan 12 18:01:14 EST 2017

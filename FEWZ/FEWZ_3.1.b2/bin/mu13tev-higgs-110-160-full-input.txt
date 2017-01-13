@@ -34,7 +34,7 @@ Input scheme: 0. Manual input; 1. Gmu scheme; 2. AlphaMz scheme
 'lepton axial coupling         = ' 1d0
 =============================================
 Vegas Parameters
-'Relative accuracy (in %)           = ' 0.1d0
+'Relative accuracy (in %)           = ' 0.01d0
 'Absolute accuracy                  = ' 0d0
 'Number of calls per iteration      = ' 100000
 'Number of increase calls per iter. = ' 50000

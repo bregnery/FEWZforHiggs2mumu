@@ -3,7 +3,7 @@
 #SBATCH --mail-type=FAIL # Mail events (NONE, BEGIN, END, FAIL, ALL)
 #SBATCH --mail-user=bregnery@ufl.edu # Where to send mail	
 #SBATCH --mem-per-cpu=2gb # Per processor memory
-#SBATCH --time=23:59:00 	# Walltime
+#SBATCH --time=47:59:00 	# Walltime
 #SBATCH --output=/ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin/out/test-%A.out	# Name output file 
 #SBATCH --array=1-8
 
