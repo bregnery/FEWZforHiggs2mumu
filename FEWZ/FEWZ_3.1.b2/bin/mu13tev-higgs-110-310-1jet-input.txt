@@ -108,7 +108,7 @@ Cut on Z rapidity for well-defined Collins-Soper Angles at pp Collider
 'Z rapidity cutoff for CS frame     = ' 0.0d0
 =============================================
 (See manual for complete listing)
-'PDF set =                        ' 'LUXqed_plus_PDF4LHC15_nnlo_100'
+'PDF set =                        ' 'CT14qed_inc_proton'
 'Turn off PDF error (1=Yes, 0=No)    = ' 0
 (Active for MSTW2008 only, if PDF error is on:)
 (Compute PDF+as errors: 1; just PDF errors: 0)

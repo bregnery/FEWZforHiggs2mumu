@@ -1,0 +1,71 @@
+Wed Jan 25 15:13:58 EST 2017
+c22a-s3.ufhpc
+c22a-s3.ufhpc
+/ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+/ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+/ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+/ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Wed Jan 25 15:13:58 EST 2017
+Wed Jan 25 15:13:58 EST 2017
+Wed Jan 25 15:13:58 EST 2017
+c22a-s3.ufhpc
+c22a-s3.ufhpc
+c22a-s3.ufhpc
+Wed Jan 25 15:13:58 EST 2017
+c22a-s4.ufhpc
+Working in /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Working in /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Working in /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Working in /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Will run DY NLO job with parameter =  2
+Will run DY NLO job with parameter =  3
+Working in /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Will run DY NLO job with parameter =  1
+Working in /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Working in /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Working in /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Will run DY NLO job with parameter =  5
+Will run DY NLO job with parameter =  4
+Will run DY NLO job with parameter =  6
+Will run DY NLO job with parameter =  7
+Will run DY NLO job with parameter =  8
+Using 1 parallel threads
+Using 1 parallel threads
+Using 1 parallel threads
+Starting sector 1 ...
+Using 1 parallel threads
+Starting sector 1 ...
+Starting sector 1 ...
+Using 1 parallel threads
+Using 1 parallel threads
+Using 1 parallel threads
+Using 1 parallel threads
+Starting sector 1 ...
+Starting sector 1 ...
+Starting sector 1 ...
+Starting sector 1 ...
+Starting sector 1 ...
+Job finished in 3289 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-310-full <order>.mu13tev-higgs-110-310-full-results.dat
+Wed Jan 25 16:08:49 EST 2017
+Job finished in 14784 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-160-1jet <order>.mu13tev-higgs-110-160-1jet-results.dat
+Wed Jan 25 19:20:24 EST 2017
+Job finished in 20530 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-310-1jet <order>.mu13tev-higgs-110-310-1jet-results.dat
+Wed Jan 25 20:56:10 EST 2017
+Job finished in 65568 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-160-cc <order>.mu13tev-higgs-110-160-cc-results.dat
+Thu Jan 26 09:26:48 EST 2017
+Job finished in 75258 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-160-ncnc <order>.mu13tev-higgs-110-160-ncnc-results.dat
+Thu Jan 26 12:08:18 EST 2017
+Job finished in 77721 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-310-ncnc <order>.mu13tev-higgs-110-310-ncnc-results.dat
+Thu Jan 26 12:49:21 EST 2017
+Job finished in 79784 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-310-cc <order>.mu13tev-higgs-110-310-cc-results.dat
+Thu Jan 26 13:23:44 EST 2017
+Job finished in 104819 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-160-full <order>.mu13tev-higgs-110-160-full-results.dat
+Thu Jan 26 20:20:59 EST 2017
