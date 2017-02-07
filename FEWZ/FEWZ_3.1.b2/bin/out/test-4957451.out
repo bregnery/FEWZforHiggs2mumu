@@ -1,0 +1,23 @@
+Wed Feb  1 11:14:13 EST 2017
+c23a-s24.ufhpc
+/ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Wed Feb  1 11:14:13 EST 2017
+c25b-s2.ufhpc
+Working in /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Will run DY NLO job with parameter =  1
+Working in /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Will run DY NLO job with parameter =  2
+Using 1 parallel threads
+Starting sector 1 ...
+Using 1 parallel threads
+Starting sector 1 ...
+At line 58 of file /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/src/histogram.F (unit = 17, file = '../mu13tev-higgs-110-160-1jet-cutat60gev-histograms.txt')
+Fortran runtime error: End of file
+At line 58 of file /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/src/histogram.F (unit = 17, file = '../mu13tev-higgs-110-160-1jet-cutat15gev-histograms.txt')
+Fortran runtime error: End of file
+Job finished in 6 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-160-1jet-cutat15gev <order>.mu13tev-higgs-110-160-1jet-cutat15gev-results.dat
+Wed Feb  1 11:14:20 EST 2017
+Job finished in 6 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-160-1jet-cutat60gev <order>.mu13tev-higgs-110-160-1jet-cutat60gev-results.dat
+Wed Feb  1 11:14:20 EST 2017

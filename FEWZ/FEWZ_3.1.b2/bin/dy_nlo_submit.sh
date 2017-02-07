@@ -29,6 +29,8 @@ declare -a arr=( "mu13tev-higgs-110-160-1jet" "mu13tev-higgs-110-160-full"
                  "mu13tev-higgs-110-310-1jet" "mu13tev-higgs-110-310-full"
                  "mu13tev-higgs-110-310-cc" "mu13tev-higgs-110-310-ncnc" )
 
+#declare -a arr=( "mu13tev-higgs-110-160-1jet-cutat15gev" "mu13tev-higgs-110-160-1jet-cutat60gev" )
+
 ./local_run.sh z ${arr[$SLURM_ARRAY_TASK_ID-1]} ${arr[$SLURM_ARRAY_TASK_ID-1]}-input.txt ${arr[$SLURM_ARRAY_TASK_ID-1]}-histograms.txt ${arr[$SLURM_ARRAY_TASK_ID-1]}-results.dat .. 1
 
 date

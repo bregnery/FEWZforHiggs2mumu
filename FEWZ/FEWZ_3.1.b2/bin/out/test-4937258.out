@@ -1,0 +1,32 @@
+/ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+/ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Tue Jan 31 11:55:42 EST 2017
+Tue Jan 31 11:55:42 EST 2017
+c25b-s42.ufhpc
+c25b-s42.ufhpc
+Working in /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Working in /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/bin
+Will run DY NLO job with parameter =  2
+Will run DY NLO job with parameter =  1
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "scripts/get_bin_files.py", line 28, in <module>
+  File "scripts/get_bin_files.py", line 28, in <module>
+    histofile = open(histofilen, 'r')
+IOError: [Errno 2] No such file or directory: 'mu13tev-higgs-110-160-1jet-cutat15gev-histograms.txt'    
+histofile = open(histofilen, 'r')
+IOError: [Errno 2] No such file or directory: 'mu13tev-higgs-110-160-1jet-cutat60gev-histograms.txt'
+Using 1 parallel threads
+Using 1 parallel threads
+Starting sector 1 ...
+Starting sector 1 ...
+At line 58 of file /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/src/histogram.F (unit = 17, file = '../mu13tev-higgs-110-160-1jet-cutat60gev-histograms.txt')
+At line 58 of file /ufrc/avery/bregnery/FEWZforHiggs2mumu/FEWZ/FEWZ_3.1.b2/src/histogram.F (unit = 17, file = '../mu13tev-higgs-110-160-1jet-cutat15gev-histograms.txt')
+Fortran runtime error: Fortran runtime error: End of fileEnd of file
+
+Job finished in 10 seconds
+Job finished in 10 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-160-1jet-cutat15gev <order>.mu13tev-higgs-110-160-1jet-cutat15gev-results.dat
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-160-1jet-cutat60gev <order>.mu13tev-higgs-110-160-1jet-cutat60gev-results.dat
+Tue Jan 31 11:55:53 EST 2017
+Tue Jan 31 11:55:53 EST 2017
