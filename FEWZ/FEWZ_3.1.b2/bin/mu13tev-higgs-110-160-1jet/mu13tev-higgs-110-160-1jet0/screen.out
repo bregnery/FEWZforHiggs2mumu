@@ -116,24 +116,3 @@ Vegas input parameters:
   statefile "vegas_last_iter"
 
 Restoring state from vegas_last_iter.
-
-Iteration 3:  450000 integrand evaluations so far
-[1] 2.68549 +- 0.00472285  	chisq 2.62485 (2 df)
-
-Saving state to vegas_last_iter.
-Vegas input parameters:
-  ndim 11
-  ncomp 1
-  epsrel 0
-  epsabs 0
-  flags 291
-  seed 15
-  mineval 1
-  maxeval 1
-  nstart 100000
-  nincrease 50000
-  nbatch 1000
-  gridno 1
-  statefile "vegas_last_iter"
-
-Restoring state from vegas_last_iter.

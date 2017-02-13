@@ -76,7 +76,7 @@ Vegas input parameters:
   statefile "vegas_last_iter"
 
 Iteration 1:  100000 integrand evaluations so far
-[1] 6.08044 +- 0.126809  	chisq 0 (0 df)
+[1] 5.73598 +- 0.123036  	chisq 0 (0 df)
 
 Saving state to vegas_last_iter.
 Vegas input parameters:
@@ -86,27 +86,6 @@ Vegas input parameters:
   epsabs 0
   flags 291
   seed 13
-  mineval 1
-  maxeval 1
-  nstart 100000
-  nincrease 50000
-  nbatch 1000
-  gridno 1
-  statefile "vegas_last_iter"
-
-Restoring state from vegas_last_iter.
-
-Iteration 2:  250000 integrand evaluations so far
-[1] 6.16862 +- 0.113035  	chisq 2.35407 (1 df)
-
-Saving state to vegas_last_iter.
-Vegas input parameters:
-  ndim 11
-  ncomp 1
-  epsrel 0
-  epsabs 0
-  flags 291
-  seed 14
   mineval 1
   maxeval 1
   nstart 100000

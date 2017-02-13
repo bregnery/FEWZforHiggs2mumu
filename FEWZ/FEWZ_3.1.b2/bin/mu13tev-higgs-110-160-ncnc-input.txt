@@ -80,7 +80,7 @@ Taking absolute value of hard lepton pseudorapidity?
 'Harder lepton pseudorapidity min   = ' 0.8d0
 'Harder Lepton pseudorapidity max   = ' 2.4d0
 PHOTON RECOMBINATION-----------------------------
-'DeltaR sep. for photon recomb.     = ' 0.5d0
+'DeltaR sep. for photon recomb.     = ' 0.0d0
 'Minimum pT for observable photon   = ' 0.5d0
 'Maximum eta for observable photon  = ' 2.5d0
 PHOTON CUTS--------------------------------------

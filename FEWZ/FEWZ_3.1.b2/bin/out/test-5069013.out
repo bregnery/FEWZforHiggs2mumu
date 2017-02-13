@@ -48,3 +48,27 @@ Starting sector 1 ...
 Starting sector 1 ...
 Starting sector 1 ...
 Starting sector 1 ...
+Job finished in 2803 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-310-full <order>.mu13tev-higgs-110-310-full-results.dat
+Tue Feb  7 11:35:22 EST 2017
+Job finished in 16151 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-160-1jet <order>.mu13tev-higgs-110-160-1jet-results.dat
+Tue Feb  7 15:17:50 EST 2017
+Job finished in 17907 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-310-1jet <order>.mu13tev-higgs-110-310-1jet-results.dat
+Tue Feb  7 15:47:06 EST 2017
+Job finished in 47612 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-160-ncnc <order>.mu13tev-higgs-110-160-ncnc-results.dat
+Wed Feb  8 00:02:11 EST 2017
+Job finished in 54396 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-310-ncnc <order>.mu13tev-higgs-110-310-ncnc-results.dat
+Wed Feb  8 01:55:15 EST 2017
+Job finished in 55366 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-160-cc <order>.mu13tev-higgs-110-160-cc-results.dat
+Wed Feb  8 02:11:25 EST 2017
+Job finished in 60728 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-310-cc <order>.mu13tev-higgs-110-310-cc-results.dat
+Wed Feb  8 03:40:47 EST 2017
+Job finished in 100101 seconds
+Run the following to post-process the output files: finish.sh mu13tev-higgs-110-160-full <order>.mu13tev-higgs-110-160-full-results.dat
+Wed Feb  8 14:37:00 EST 2017
