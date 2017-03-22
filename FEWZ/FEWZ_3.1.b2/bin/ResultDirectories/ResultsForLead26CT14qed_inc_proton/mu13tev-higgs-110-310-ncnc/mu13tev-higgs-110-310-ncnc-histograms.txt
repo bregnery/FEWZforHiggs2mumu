@@ -2,7 +2,7 @@ HISTOGRAMS------(Order of Histograms Can Not Be Changed)----------------------
 Name (DO NOT CHANGE)    Num Bins (<30)	Lower Bound	Upper Bound	Write Out (1=hist, 2=cuml, 3=both1&2, 4=rev-cuml, 5=both1&4, 0=none)
 '1.  Z/W pT           ' 40	        0d0		200d0		1
 '2.  Z/W eta          ' 24		-2.4d0		2.4d0		1
-'3.  Q_ll inv mass    ' 50		110.0d0	        160.0d0 	1
+'3.  Q_ll inv mass    ' 50		110.0d0	        310.0d0 	1
 '4.  l-/lep. pT       ' 40		0d0		200d0		1
 '5.  l-/lep. eta      ' 24		-2.4d0		2.4d0		1
 '6.  l+/neut. pT      ' 40		0d0		200d0		1
