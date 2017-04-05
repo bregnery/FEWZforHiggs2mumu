@@ -41,7 +41,7 @@ Vegas Parameters
 'Maximum number of evaluations      = ' 200000000
 'Random number seed for Vegas       = ' 11
 =============================================
-'QCD Perturb. Order (0=LO, 1=NLO, 2=NNLO) = ' 1
+'QCD Perturb. Order (0=LO, 1=NLO, 2=NNLO) = ' 2
 'EW Perturb. Order (0=LO, 1=NLO)    = ' 1
 'Z pole focus (1=Yes, 0=No)     = ' 0
 'EW control (leave 0 to keep all on) = ' 0
@@ -61,7 +61,7 @@ Vegas Parameters
 'Anti-lepton pT maximum             = ' 100000d0
 'pT min for softer lepton           = ' 10.0d0
 'pT max for softer lepton           = ' 100000d0
-'pT min for harder lepton           = ' 20.0d0
+'pT min for harder lepton           = ' 26.0d0
 'pT max for harder lepton           = ' 100000d0
 Taking absolute value of lepton pseudorapidity?
 '(yes = 1, no = 0) 		    = ' 1

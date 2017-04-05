@@ -1,0 +1,12 @@
+
+submit:
+======
+
+sbatch --array=0-126 <slurm_submit_filename>
+
+
+finish for NNLO:  in bin  <workdir> below bin
+======
+
+finish.sh <workdir> NNLO.<output_file_name>
+
